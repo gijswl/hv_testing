@@ -1,0 +1,2 @@
+The impedance voltage $v_{kT}$ is defined as the ratio between the short-circuit voltage $V_{kT}^*$ and the rated secondary voltage $V_{2m}$. It is typically between $5$ and $25\,\%$.
+$$v_{kT} = \frac{V_{kT}^\ast}{V_{2m}} = \omega^2 C_{DUT} L_T$$A high impedance voltage limits the available short-circuit current, which can impede the breakdown process.
