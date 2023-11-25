@@ -1,0 +1,2 @@
+The average discharge current during a certain time interval $T_{ref}$ is based on the [[Accumulated Apparent Charge]] during this interval:
+$$I_n = \frac{1}{T_{ref}} \sum_{i = 1}^N |q_i| = \frac{q_n}{T_{ref}}$$

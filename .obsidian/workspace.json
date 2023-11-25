@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a519670fcc4eb84b",
+        "id": "fa2837f269a5e810",
         "type": "tabs",
         "children": [
           {
-            "id": "6a6b22c89e8fc528",
+            "id": "3975c6372a280a13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md",
+                "file": "Ch 4 - Partial Discharge Fundamentals/4.2 - PD Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md",
+                "file": "Ch 4 - Partial Discharge Fundamentals/4.2 - PD Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md",
+                "file": "Ch 4 - Partial Discharge Fundamentals/4.2 - PD Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md"
+                "file": "Ch 4 - Partial Discharge Fundamentals/4.2 - PD Models.md"
               }
             }
           }
@@ -146,14 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a6b22c89e8fc528",
+  "active": "3975c6372a280a13",
   "lastOpenFiles": [
-    "Ch 3 - Tests with HVAC/concepts/Test Transformer Cascades.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Accumulated Apparent Charge.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.1 - Fundamentals.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Quadratic Rate.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Discharge Power.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Average Discharge Current.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Pulse Repetition Rate.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Inception and Extinction Voltage.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Apparent Charge.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.2 - PD Models.md",
     "Ch 3 - Tests with HVAC/concepts/AC Transformer.md",
+    "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.3 - Pulse Charge Measurements.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.8 - Acoustic PD Detection.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.7 - PD Detection in the VHF-UHF Range.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.6 - Visualization of PD Events.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.5 - Noise Reduction.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.4 - Fault Localization.md",
+    "Ch 4 - Partial Discharge Fundamentals/figures",
+    "Ch 4 - Partial Discharge Fundamentals/concepts",
+    "Ch 3 - Tests with HVAC/concepts/Test Transformer Cascades.md",
     "Ch 3 - Tests with HVAC/concepts/Cylinder-type Transformer.md",
     "Ch 3 - Tests with HVAC/concepts/Impedance Voltage.md",
     "Ch 3 - Tests with HVAC/concepts/Tank-type Transformer.md",
-    "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md",
     "Ch 3 - Tests with HVAC/figures/transformer_cascade.png",
     "Ch 3 - Tests with HVAC/3.2 - Requirements to HVAC Test Voltages.md",
     "Ch 3 - Tests with HVAC/figures/act_cylinder_type.png",
@@ -169,8 +186,6 @@
     "Ch 10 - HV Testing on Site",
     "Ch 9 - HV Test Laboratories",
     "Ch 8 - Tests with Composite Voltages",
-    "Ch 7 - Tests with LI and SI",
-    "Ch 6 - Tests with HVDC",
-    "Ch 5 - Measurements of Dielectric Properties"
+    "Ch 7 - Tests with LI and SI"
   ]
 }

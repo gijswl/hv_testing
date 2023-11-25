@@ -1,0 +1,2 @@
+The quadratic rate was introduced to underline the severity of high PD pulse magnitudes, which are averaged out when other quantities are considered. It is seldom used in practice.
+$$D_n = \frac{1}{T_{ref}} \sum_{i = 1}^N q_i^2$$

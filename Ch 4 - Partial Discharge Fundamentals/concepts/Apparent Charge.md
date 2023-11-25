@@ -1,0 +1,3 @@
+The apparent charge is the main quantity that is measured during PD testing and is usually expressed in picocoulombs \[pC]. It is the charge that appears to flow through the test object and is not equal to the amount of charge locally involved at the site of the discharge.
+
+It is defined by IEC 60270:2000 as "that charge which, if injected within a very short time between the terminals of the test object in a specified test circuit, would give the same reading on the measuring instrument as the PD current itself."
