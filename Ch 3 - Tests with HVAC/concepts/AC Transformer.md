@@ -7,7 +7,7 @@ $$ V_1^\prime = V_2 - Z_T I = V_2 - j\omega C_{DUT} (R_T + j\omega L_T) $$
 If the losses are low, the circuit exhibits resonance at the natural frequency. 
 $$ f_0 = \frac{\omega_0}{2\pi} = \frac{1}{2\pi \sqrt{L_T C_{DUT}}} $$
 This situation should be avoided in practice since the resonant gain can cause extremely high voltages. Over-voltage protection at the output is always required.
-Provided that it is designed and controlled properly, a [[resonant circuit]] can be a cost-effective method of generating medium-high voltages..
+Provided that it is designed and controlled properly, a [[3.1 - Generation of HVAC Test Voltages#Resonant circuits (ACR)|resonant circuit]] can be a cost-effective method of generating medium-high voltages.
 ## Short-circuit behaviour
 When the secondary winding is short-circuited (e.g., by breakdown of the DUT), a short-circuit current will flow which is determined by the impedance of the transformer (see [[Impedance Voltage]]).
 
