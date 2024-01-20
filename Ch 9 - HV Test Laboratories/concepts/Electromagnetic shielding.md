@@ -1,0 +1,5 @@
+High-voltage laboratories are shielded against electromagnetic fields by a closed metallic structure (Faraday cage) which is _separated_ from the soil and the [[Building ground]] system. It may be connected to the [[Test field ground]] system at only a _single point_.
+## Faraday cage
+The wall should have an attenuation of $\le$ 100 dB up to 5 MHz, which may be achieved with standard panels consisting of two layers of galvanized steel. The panels should be overlapping and electrically bonded together (by screwing or welding) every 50-100 cm. The wall also acts as sound and heat absorber.
+
+Openings for e.g., windows and doors must have metallic frames. Windows are filled with glass and metallic wire netting. Shielded doors with special metallic feeder contacts (expensive) or sliding doors of steel (cheaper) are required for sensitive PD measurements.

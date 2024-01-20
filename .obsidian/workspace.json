@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ch 3 - Tests with HVAC/concepts/AC Transformer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9ef654caba12c48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ch 3 - Tests with HVAC/concepts/Reactor.md",
-                "mode": "source",
+                "file": "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ch 3 - Tests with HVAC/concepts/Reactor.md",
+                "file": "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ch 3 - Tests with HVAC/concepts/Reactor.md",
+                "file": "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ch 3 - Tests with HVAC/concepts/Reactor.md"
+                "file": "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md"
               }
             }
           }
@@ -160,16 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9ef654caba12c48",
+  "active": "ce97bb3f4426be57",
   "lastOpenFiles": [
-    "Ch 3 - Tests with HVAC/concepts/Tank-type Transformer.md",
+    "Ch 9 - HV Test Laboratories/concepts/Test circuit return.md",
+    "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md",
+    "Ch 9 - HV Test Laboratories/9.4 - Updating of Existing Test Fields.md",
+    "Ch 9 - HV Test Laboratories/9.3 - Outdoor HV Test Fields.md",
+    "Ch 9 - HV Test Laboratories/9.1 - Requirements and Selection of HV Test Systems.md",
+    "Ch 3 - Tests with HVAC/figures/variable_reactor.png",
+    "Ch 9 - HV Test Laboratories/concepts/Electromagnetic shielding.md",
+    "Ch 9 - HV Test Laboratories/concepts/Test field ground.md",
+    "Ch 9 - HV Test Laboratories/concepts/Building ground.md",
     "Ch 3 - Tests with HVAC/concepts/AC Transformer.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.4 - Fault Localization.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.5 - Noise Reduction.md",
+    "Ch 9 - HV Test Laboratories/concepts",
+    "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md",
+    "Ch 3 - Tests with HVAC/concepts/Reactor.md",
+    "Ch 3 - Tests with HVAC/concepts/Tank-type Transformer.md",
     "Ch 3 - Tests with HVAC/concepts/Cylinder-type Transformer.md",
     "Ch 3 - Tests with HVAC/concepts/Impedance Voltage.md",
     "Ch 3 - Tests with HVAC/concepts/Exciter Transformer.md",
-    "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md",
-    "Ch 3 - Tests with HVAC/concepts/Reactor.md",
-    "Ch 3 - Tests with HVAC/figures/variable_reactor.png",
     "Ch 4 - Partial Discharge Fundamentals/4.1 - Fundamentals.md",
     "Ch 3 - Tests with HVAC/3.2 - Requirements to HVAC Test Voltages.md",
     "Ch 3 - Tests with HVAC/concepts/Test Transformer Cascades.md",
@@ -179,20 +177,11 @@
     "Ch 4 - Partial Discharge Fundamentals/concepts/Quadratic Rate.md",
     "Ch 4 - Partial Discharge Fundamentals/concepts/Discharge Power.md",
     "Ch 4 - Partial Discharge Fundamentals/concepts/Average Discharge Current.md",
-    "Ch 4 - Partial Discharge Fundamentals/concepts/Pulse Repetition Rate.md",
-    "Ch 4 - Partial Discharge Fundamentals/concepts/Inception and Extinction Voltage.md",
-    "Ch 4 - Partial Discharge Fundamentals/concepts/Apparent Charge.md",
-    "Ch 4 - Partial Discharge Fundamentals/4.8 - Acoustic PD Detection.md",
-    "Ch 4 - Partial Discharge Fundamentals/4.7 - PD Detection in the VHF-UHF Range.md",
-    "Ch 4 - Partial Discharge Fundamentals/4.6 - Visualization of PD Events.md",
-    "Ch 4 - Partial Discharge Fundamentals/4.5 - Noise Reduction.md",
-    "Ch 4 - Partial Discharge Fundamentals/4.4 - Fault Localization.md",
     "Ch 4 - Partial Discharge Fundamentals/figures",
     "Ch 4 - Partial Discharge Fundamentals/concepts",
     "Ch 3 - Tests with HVAC/figures/transformer_cascade.png",
     "Ch 3 - Tests with HVAC/figures/act_cylinder_type.png",
     "Ch 3 - Tests with HVAC/figures/act_tank_type.png",
-    "Ch 3 - Tests with HVAC/3.4 - Measurement of HVAC Voltages.md",
     "Ch 3 - Tests with HVAC/figures/act_system.png",
     "Ch 3 - Tests with HVAC/figures",
     "Ch 3 - Tests with HVAC/concepts",
@@ -200,7 +189,6 @@
     "Ch 2 - Basics of HV Test Techniques",
     "Ch 10 - HV Testing on Site",
     "Ch 9 - HV Test Laboratories",
-    "Ch 8 - Tests with Composite Voltages",
-    "Ch 7 - Tests with LI and SI"
+    "Ch 8 - Tests with Composite Voltages"
   ]
 }

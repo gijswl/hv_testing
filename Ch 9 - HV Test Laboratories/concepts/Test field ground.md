@@ -1,0 +1,2 @@
+A conductive contact of the test field ground with the [[Building ground]] and upper layers of the soil should be avoided, because return currents from power electronic-drive machines and equipment from the factory flow there. 
+The test field must be grounded into deeper layers of the soil and electrically insulated from the upper layers and the building ground.

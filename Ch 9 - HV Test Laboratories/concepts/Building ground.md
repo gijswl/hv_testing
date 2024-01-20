@@ -1,0 +1,2 @@
+The laboratory building must be grounded for safety (e.g., lightning protection). 
+This safety ground system consists of the building's steel reinforcements and foundation earth electrodes. The building ground is _not_ responsible for noise reduction.

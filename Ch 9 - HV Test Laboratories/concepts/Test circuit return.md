@@ -1,0 +1,1 @@
+Each high-voltage circuit must have its own return path, separate from the [[Test field ground]] system. The circuit may be grounded at only a _single point_, close to the [[3.4 - Measurement of HVAC Voltages|divider]] or the [[3.1 - Generation of HVAC Test Voltages|high-voltage generator]].
