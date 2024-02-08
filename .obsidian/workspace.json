@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md",
-                "mode": "preview",
+                "file": "Ch 4 - Partial Discharge Fundamentals/concepts/Measuring impedance.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md",
+                "file": "Ch 4 - Partial Discharge Fundamentals/concepts/Measuring impedance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md",
+                "file": "Ch 4 - Partial Discharge Fundamentals/concepts/Measuring impedance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md"
+                "file": "Ch 4 - Partial Discharge Fundamentals/concepts/Measuring impedance.md"
               }
             }
           }
@@ -149,8 +149,30 @@
   },
   "active": "ce97bb3f4426be57",
   "lastOpenFiles": [
-    "Ch 9 - HV Test Laboratories/concepts/Test circuit return.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.3 - Pulse Charge Measurements.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.1 - Fundamentals.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Measuring impedance.md",
+    "Ch 4 - Partial Discharge Fundamentals/4.2 - PD Models.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Quadratic Rate.md",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Pulse Repetition Rate.md",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_HV.png",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.pBHDNo",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.JaetdE",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.AJPvkz",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.CnzrWg",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.bsYbms",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.eobyVF",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.nOSGqD",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.KConoc",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.zemQPw",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_impedance.m.VkivET",
+    "Ch 4 - Partial Discharge Fundamentals/figures/transfer_PD.png",
+    "Ch 4 - Partial Discharge Fundamentals/figures/measuring_impedance.png",
+    "Ch 4 - Partial Discharge Fundamentals/concepts/Coupling capacitor.md",
+    "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md",
+    "Ch 3 - Tests with HVAC/concepts/Cylinder-type Transformer.md",
     "Ch 9 - HV Test Laboratories/9.2 - HV Test Building Design.md",
+    "Ch 9 - HV Test Laboratories/concepts/Test circuit return.md",
     "Ch 9 - HV Test Laboratories/9.4 - Updating of Existing Test Fields.md",
     "Ch 9 - HV Test Laboratories/9.3 - Outdoor HV Test Fields.md",
     "Ch 9 - HV Test Laboratories/9.1 - Requirements and Selection of HV Test Systems.md",
@@ -161,34 +183,15 @@
     "Ch 3 - Tests with HVAC/concepts/AC Transformer.md",
     "Ch 4 - Partial Discharge Fundamentals/4.4 - Fault Localization.md",
     "Ch 4 - Partial Discharge Fundamentals/4.5 - Noise Reduction.md",
-    "Ch 9 - HV Test Laboratories/concepts",
-    "Ch 3 - Tests with HVAC/3.1 - Generation of HVAC Test Voltages.md",
     "Ch 3 - Tests with HVAC/concepts/Reactor.md",
     "Ch 3 - Tests with HVAC/concepts/Tank-type Transformer.md",
-    "Ch 3 - Tests with HVAC/concepts/Cylinder-type Transformer.md",
     "Ch 3 - Tests with HVAC/concepts/Impedance Voltage.md",
     "Ch 3 - Tests with HVAC/concepts/Exciter Transformer.md",
-    "Ch 4 - Partial Discharge Fundamentals/4.1 - Fundamentals.md",
     "Ch 3 - Tests with HVAC/3.2 - Requirements to HVAC Test Voltages.md",
     "Ch 3 - Tests with HVAC/concepts/Test Transformer Cascades.md",
-    "Ch 4 - Partial Discharge Fundamentals/4.3 - Pulse Charge Measurements.md",
-    "Ch 4 - Partial Discharge Fundamentals/4.2 - PD Models.md",
-    "Ch 4 - Partial Discharge Fundamentals/concepts/Accumulated Apparent Charge.md",
-    "Ch 4 - Partial Discharge Fundamentals/concepts/Quadratic Rate.md",
-    "Ch 4 - Partial Discharge Fundamentals/concepts/Discharge Power.md",
-    "Ch 4 - Partial Discharge Fundamentals/concepts/Average Discharge Current.md",
-    "Ch 4 - Partial Discharge Fundamentals/figures",
-    "Ch 4 - Partial Discharge Fundamentals/concepts",
     "Ch 3 - Tests with HVAC/figures/transformer_cascade.png",
     "Ch 3 - Tests with HVAC/figures/act_cylinder_type.png",
     "Ch 3 - Tests with HVAC/figures/act_tank_type.png",
-    "Ch 3 - Tests with HVAC/figures/act_system.png",
-    "Ch 3 - Tests with HVAC/figures",
-    "Ch 3 - Tests with HVAC/concepts",
-    "Untitled",
-    "Ch 2 - Basics of HV Test Techniques",
-    "Ch 10 - HV Testing on Site",
-    "Ch 9 - HV Test Laboratories",
-    "Ch 8 - Tests with Composite Voltages"
+    "Ch 3 - Tests with HVAC/figures/act_system.png"
   ]
 }
